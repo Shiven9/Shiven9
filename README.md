@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shiven9
+- 👋 Hi, I’m Shiven.
 - 👀 I’m interested in Fitness and well-being.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on New projects and gather real world experience on projects.
